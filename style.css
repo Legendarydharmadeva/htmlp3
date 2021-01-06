@@ -1,0 +1,30 @@
+h1{
+    color:red
+}
+img{
+    border:solid;
+    border-color: blue;
+    border-radius: 40px;
+}
+
+.header{
+    background-color: chartreuse;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.outer{
+    background-color: lemonchiffon;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.text{
+    background-color: greenyellow;
+}
+
+.inner{
+    display: flexbox;
+    justify-content: right;
+}
